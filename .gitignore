@@ -1,0 +1,10 @@
+.idea
+.vscode
+__pycache__
+
+vtorcs-RL-color
+models
+
+foo.py
+
+log.txt
